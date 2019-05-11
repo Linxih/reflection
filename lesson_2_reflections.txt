@@ -1,0 +1,6 @@
+lesson2
+
+git init
+git add
+git status
+
